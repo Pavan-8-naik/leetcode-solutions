@@ -1,1 +1,1 @@
-| 16/09/2026 | Reverse a String | Arrays & Strings | Easy | ✅ Solved | 10 min |
+| 17/09/2026 | Valid Anagram | Arrays & Strings | Easy | ✅ Solved | 15 min |
