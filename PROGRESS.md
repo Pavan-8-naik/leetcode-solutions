@@ -9,3 +9,4 @@
 | 17/09/2026 | Longest Common Prefix | Arrays & Strings | Easy | ✅ Solved | 15 min |
 | 17/09/2026 | Binary Search | Basic Algorithms | Easy | ✅ Solved | 15 min |
 | 17/09/2026 | Move Zeroes | Basic Algorithms | Easy | ✅ Solved | 15 min |
+| 17/09/2026 | Valid Parentheses | Stacks | Easy | ✅ Solved | 15 min |
